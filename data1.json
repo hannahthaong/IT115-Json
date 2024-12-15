@@ -1,0 +1,13 @@
+{
+    "name": "Hannah Nguyen",
+    "age": 30,
+    "city": "Seattle",
+    "interests": [
+        "Traveling",
+        "Beauty",
+        "Hiking",
+        "Eating Out",
+        "Researching"
+    ],
+    "is_student": true
+}
